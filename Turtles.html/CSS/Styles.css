@@ -1,0 +1,38 @@
+
+h1 {text-align: center;}
+div{background-color: orange;}
+
+   div div {background-color:red;
+   width:45%;
+   padding:2.5%;
+   float:left
+  }
+   div div div{background-color: blue;}
+   
+   img {height: 115px;}
+ #links{text-align: center;}
+ 
+ a{padding:0px 100px;
+   background-color:olivedrab
+
+}
+#links{background-color: olivedrab;}
+html{background-color:lightskyblue}
+
+#footer{padding:0px 50px;
+text-align:center;
+font-size:xx-large;
+background-color: olivedrab;}
+#link1:hover{background-color:darkolivegreen}
+#link2:hover{background-color:darkolivegreen}
+#link3:hover{background-color:darkolivegreen}
+#link4:hover{background-color:darkolivegreen}
+
+#turtle{text-align: center
+}
+#lair{text-align: right;}
+hr{width:1095px;}
+#subtitle1{text-align:center}
+
+li{float:left;}
+img{float:right;}

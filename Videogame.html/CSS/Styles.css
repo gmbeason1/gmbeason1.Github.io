@@ -1,0 +1,10 @@
+h1{text-align:center;background-color:crimson;padding:20px;border-color:rgb(184, 4, 4);border-style:groove;Border-width:10px;margin-bottom:0}
+.column{width:49.09%;background-color: rgb(91, 217, 255);float:left;border-color:rgb(0, 63, 211);border-style:ridge;border-width:10px;height:300px;display:table-cell}
+#bottom{width:100%;background-color: rgb(91, 217, 255);float:left;border-color:rgb(0, 63, 211);border-style:ridge;border-width:10px;text-align:center;height:400px}
+.col-container{display:table;width:100%}
+p{font-family:Arial, Helvetica, sans-serif}
+img{float:right;width:500px;margin-top:0}
+#portal{position:absolute;top:10.5vh;left:48.5vh}
+#zomboid{position:absolute;top:10.5vh;left:136.5vh}
+#rim{position:absolute;top:38.5vh;left:48.5vh}
+#rain{position:absolute;top:38.5vh;left:136.5vh}
