@@ -1,0 +1,12 @@
+
+h1{text-align:center;font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;font-size:xx-large;background-color:burlywood;padding:20px 0px;border-style:groove;border-width:15px;border-color:rgb(220, 156, 100);margin-bottom:0}
+hr{margin-top:0;height:10px;background-color: saddlebrown;}
+.diagonal{width:0;height:0;border-right:97.8vw solid transparent;border-bottom:15vw solid rgb(255, 94, 91);margin-top:-20vw;}
+.bottom{background-color:rgb(255, 94, 91)}
+.top{background-color:rgb(96, 215, 255);height:900px}
+#turkey{float:right}
+img{width:700px;padding:10px 30px}
+#ham{position:absolute;top:84vh;left:110vh}
+h2{padding:0px 70px;margin:0;text-align:center;font-size:100px}
+#turkeytext{padding:180px 60px}
+p{position:absolute;top: -75vh;left:78vh;font-size:15em}

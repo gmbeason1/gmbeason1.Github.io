@@ -1,0 +1,14 @@
+h1{text-align:center;background-color:palegoldenrod;width:100%;padding:20px;border-color:darkgoldenrod;border-width:10px;border-style:groove;margin-bottom:0}
+
+#passage{background-color:palegoldenrod;width:100%;height:120%;float:center}
+
+img{width:60%;height:30%;margin-left:auto;margin-right:auto;display:block;padding:40px}
+
+p{text-align:center;font-family:Verdana, Geneva, Tahoma, sans-serif;font-size:x-large}
+
+h3{text-align:center;font-family:Verdana, Geneva, Tahoma, sans-serif}
+
+a{display:inline-block;background-color:goldenrod;font-size:xx-large;text-align:center;color:black}
+
+a{width:24.7%;;display:inline-block;text-align:center;}
+a:hover{background-color:darkgoldenrod;color:black}

@@ -1,0 +1,10 @@
+h1{text-align:center;background-color:lightgreen;border-style:groove;border-width:8px;Border-color:rgb(140, 227, 140);padding:15px 0px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;margin-bottom:0}
+
+a{background-color:skyblue;font-size:large;width:24.7%;;display:inline-block;text-align:center;}
+a:hover{background-color:cornflowerblue;color:blue}
+img{width:60%;display:block;margin-left:auto;margin-right:auto;margin-top:60px}
+.column{float:left;width:49%;text-align:center;border-style:dotted;}
+h2{text-align:center;font-size:x-large}
+.row{width:90%;margin:auto;}
+p{text-align:center;font-family:Verdana, Geneva, Tahoma, sans-serif;font-size:x-large}
+#napa{background-color:lightgreen}
