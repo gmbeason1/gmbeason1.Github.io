@@ -1,0 +1,8 @@
+table{border:1px solid black;width:100%;border-collapse:collapse;}
+td{border:1px solid black;width:25%;border-collapse:collapse;font-size:30px;font-family:'Times New Roman', Times, serif;padding:0px 10px;background-color: white;}
+h1{text-align:center;margin-top:100px;}
+h3{margin-top:100px;font-size:large}
+th{border:1px solid black;width:25%;border-collapse:collapse;font-size:30px;font-family:'Times New Roman', Times, serif;padding:0px 10px;background-color: white;}
+html{background-color: navajowhite;}
+body{background-color: navajowhite;}
+h2{text-align:center;width:99.92%;background-color: white;border-width:1px;border-color:black;border-style:groove;margin-top:0;font-size:x-large;font-family:'Times New Roman', Times, serif}
