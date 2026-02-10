@@ -1,0 +1,28 @@
+#logo{width:90px}
+#lines{width:40px;padding:0px 50px;margin-bottom:22px}
+#rule{height:5px;background-color:black;margin-bottom:3px}
+h3{font-size:xx-large;word-spacing:40px;}
+#titles{Position:absolute;top:-0.4vh;left:24vh}
+#new{background-color: rgb(202, 19, 19);color:white;padding:0px 10px;width:75px;Position:absolute;top:-0.4vh;left:130vh}
+.column{float:left;}
+.row{display:block}
+img{border-radius:10px;margin-left:auto;}
+#watch{position:absolute;top:-0.4vh;left:140vh}
+button { background-color:rgb(202, 19, 19);color:#fff;border:none;border-radius:10px;width:170px;font-size:2em;}
+#sub{position:absolute;top:1.4vh;left:150vh;padding:10px}
+h1{font-size:7ch;text-align: center;padding:0px 150px;font-weight: bolder;padding:0px 100px}
+#photo{margin-left:auto;margin-right:auto;display:block}
+h2{font-size:xx-large}
+#sign{border-color: rgba(177, 177, 177, 0.99); border-width:2px;border-style:solid;width:105px;padding:7px 15px;border-radius:15px;position:absolute;top:-0.84vh;left:165vh}
+#small{width:30%;}
+#big{width:40%}
+#headline{font-size:5ch}
+#photob{width:700px;margin-left:auto;margin-right:auto;display:block}
+#smaller{width:33.333%}
+#lilpic{width:200px;margin-left:auto;margin-right:auto;display:block}
+#nfl{font-size:xx-large}
+#bold{font-size:5ch}
+#foot{margin-left:0;display:block}
+#globes{font-size:4ch}
+#globe{font-size:5ch}
+#update{color:red;font-size:4ch;padding-left:45px}

@@ -1,0 +1,29 @@
+body{width: 1366px;
+   height: 768px;
+   background-color:azure;
+   text-align:center;
+}
+   div{
+       background-color:cornflowerblue;
+       Margin:auto;
+       border:solid;
+       Margin-bottom:50px;
+   }
+   #section{width:700px;
+   height:600px;
+}
+   hr{width:250px}
+   ol{
+       width:50%;
+       margin: auto;
+       background-color:blueviolet
+   }
+
+   a{
+       background-color:steelblue;
+       padding:0px 150px;
+       
+   }
+   a:hover{
+       background-color:darkcyan
+   }
